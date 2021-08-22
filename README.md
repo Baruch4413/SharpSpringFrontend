@@ -1,6 +1,11 @@
 # notes-frontend
 
 ## Project setup
+Create a .env file with the following content:
+```
+BACKEND_SERVER_URL="<YOUR_SERVER_URL>"
+```
+Then run
 ```
 npm install
 ```
